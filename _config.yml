@@ -27,7 +27,7 @@ links:
     url:          /tags
     external:     false
   - name:         关于
-    url:          /about
+    url:          https://Dexter_Chien_Blog.github.io/
     external:     false
 # ------------ CONFIGURABLE END ------------
 
